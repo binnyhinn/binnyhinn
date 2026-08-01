@@ -7,10 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binnyhinn&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-  <a href="https://linkedin.com/in/binnyhinn"><img src="https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:binnyhinnr@gmail.com"><img src="https://img.shields.io/badge/Email-binnyhinnr%40gmail.com-bf91f3?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-38bdae?style=flat-square&logo=google-maps&logoColor=white" />
+  <sub><i>> Innovate. Develop. Impact.</i></sub>
 </p>
 
 ---

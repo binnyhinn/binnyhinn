@@ -120,6 +120,8 @@
 | [💬 Sentiment Analyzer](https://github.com/binnyhinn/sentiment-analyzer) | Python · Flask · Scikit-learn · NLP · REST API | TF-IDF + Logistic Regression pipeline; deployed as REST API via Flask for real-time inference on product reviews |
 | [📄 Resume Scanner (ATS)](https://github.com/binnyhinn/resume-scanner) | Python · NLP · PDF Parsing · CLI | Automated ATS-style resume parser with keyword matching & scoring against job descriptions; supports batch processing |
 | [📈 Stock Price Predictor](https://github.com/binnyhinn/stock-price-predictor) | Python · TensorFlow · Keras · LSTM · Matplotlib | LSTM time-series model for stock closing price forecasting; live data via Yahoo Finance API; evaluated with RMSE & MAE |
+| [📄 Document Q&A Bot (RAG)](YOUR_REPO_URL) | Python · Gemini API · Sentence Transformers · ChromaDB · RAG | Built a document Q&A bot using semantic search and vector embeddings; generates grounded answers with source-file/page citations and similarity-based filtering to reduce hallucinations. |
+| [📈 Crypto ETL Pipeline](https://github.com/binnyhinn/de-pipeline) | Python · Apache Airflow · PostgreSQL · Docker · pytest · CoinGecko API | Automated hourly cryptocurrency data ingestion, validation, and cleaning; stores raw and clean datasets in PostgreSQL with idempotent loads and Airflow orchestration. |
 
 </p>
 

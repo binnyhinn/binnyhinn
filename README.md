@@ -124,6 +124,7 @@
 | [📈 Crypto ETL Pipeline](https://github.com/binnyhinn/de-pipeline) | Python · Apache Airflow · PostgreSQL · Docker · pytest · CoinGecko API | Automated hourly cryptocurrency data ingestion, validation, and cleaning; stores raw and clean datasets in PostgreSQL with idempotent loads and Airflow orchestration. |
 | [📈 Real-Time E-Commerce Data Platform](https://github.com/binnyhinn/real-time-ecommerce-data-platform) | Python · Apache Kafka · PostgreSQL · Docker · Streamlit · pytest | A real-time e-commerce streaming pipeline that generates page views, add-to-cart events, and orders; processes and validates events through Kafka, stores them in PostgreSQL, and powers a live Streamlit dashboard with orders, revenue, revenue per minute, and top products. |
 | [🏦 FinVault: Financial Data Warehouse](https://github.com/binnyhinn/finvault-data-warehouse) | Python · SQL · PostgreSQL · dbt · Docker · Airflow · Streamlit · pytest | Financial data warehouse built with Bronze, Silver, and Gold layers; implements SCD Type 2, data quarantine, audit logging, incremental processing, and account-level reconciliation, detecting 52/52 planted balance errors with 0 false alarms. |
+| [📈 Crypto ETL Pipeline](https://github.com/binnyhinn/de-pipeline) | Python · Apache Airflow · PostgreSQL · Docker · pytest · CoinGecko API | Automated hourly cryptocurrency data ingestion, validation, and cleaning; stores raw and clean datasets in PostgreSQL with idempotent loads and Airflow orchestration. |
 
 </p>
 

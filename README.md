@@ -3,9 +3,8 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=ML+%26+Python+Developer;Building+End-to-End+AI+Applications;Exploring+LLMs+%26+Generative+AI;Turning+Ideas+into+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Data+Engineer;Python+%26+Backend+Development;Building+Real-World+Software+Projects;Building+ETL+%26+Data+Pipelines;SQL+%7C+PostgreSQL+%7C+Apache+Airflow;Turning+Ideas+into+Real-World+Solutions" />
 </p>
-
 <p align="center">
   <sub><i>> Innovate. Develop. Impact.</i></sub>
 </p>

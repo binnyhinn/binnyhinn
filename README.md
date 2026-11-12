@@ -19,10 +19,10 @@
 ~/AI-Projects ❯ python profile.py
 {
   "name"        : "Binny Hinn",
-  "role"        : "ML & Python Developer",
+  "role"        : "Software Engineer",
   "focus"       : ["Machine Learning", "Python Development",
                    "Generative AI", "AI Applications"],
-  "location"    : "Tamil Nadu, India",
+  "location"    : "Bangalore", India",
   "education"   : "B.E. Computer Science & Engineering",
   "currently"   : "Building AI Projects & Learning LLMs",
   "languages"   : ["Tamil", "English", "Malayalam", "Hindi"],
